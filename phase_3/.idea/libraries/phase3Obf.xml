@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="phase3Obf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/phase3Obf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
